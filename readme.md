@@ -46,7 +46,7 @@ Then, in jupyter notebook, you can access the ```CelestialMechanics``` folder an
 
 ##
 
-![image](https://github.com/user-attachments/assets/d7aa5947-006f-41f8-b84a-1f774fea9e4a)
+![image](https://github.com/user-attachments/assets/0663bac4-c6a7-4a16-bf82-b51105c8b63e)
 
 *Planets angular positions around the sun in 10/11/2673 09:40*
 
